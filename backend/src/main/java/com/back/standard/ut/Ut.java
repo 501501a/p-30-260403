@@ -1,4 +1,4 @@
-package com.back.ut;
+package com.back.standard.ut;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.ClaimsBuilder;
